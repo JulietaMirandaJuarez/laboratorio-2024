@@ -1,0 +1,4 @@
+julieta|miranda|123
+micaela|lonano|3321
+sarah|villarreal|999
+amanda|rodriguez|456
